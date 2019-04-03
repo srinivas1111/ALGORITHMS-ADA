@@ -7,3 +7,6 @@ cd u-boot-2017.09
 
 compile u-boot
 link contains the procedure : https://groups.google.com/a/lists.mender.io/forum/#!topic/mender/BQE3i4y5J7Y
+
+
+
